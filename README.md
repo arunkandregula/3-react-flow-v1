@@ -1,4 +1,12 @@
-# Why flow is not working ?
+# Flow basics
+
+## Step1 - Branch.
+01-problem-withexperimenting-react-flow
+
+## Step1. Lets try to restrict prop type using flow instead of propTypes.
+[youtube](https://www.youtube.com/watch?v=xWMuAUbXcdQ&t=30s)
+
+
 
 Installed flow as per [instructions](https://create-react-app.dev/docs/adding-flow/)
 
