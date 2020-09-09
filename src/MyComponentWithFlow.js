@@ -7,7 +7,6 @@ type Props = {
 
 class MyComponentWithFlow extends React.Component<Props> {
   render() {
-
     return <div>{this.props.foo}</div>;
   }
 }
