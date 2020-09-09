@@ -1,10 +1,6 @@
-# Lets see how to make react work with flow.
+# Why flow is not working ?
 
-## Step1 - Branch.
-01-introducing-flow
-
-## Step1. Just install flow
-1. Installed flow as per [instructions](https://create-react-app.dev/docs/adding-flow/)
+Installed flow as per [instructions](https://create-react-app.dev/docs/adding-flow/)
 
 - Run yarn add flow-bin (or yarn add flow-bin).
 - Add "flow": "flow" to the scripts section of your package.json.
